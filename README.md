@@ -1,5 +1,5 @@
 <h1>
-  ⚙️ Pathfinding Algorithms Visualizer 💻
+  Pathfinding Algorithms Visualizer 
 </h1>
 <h3> 
  A web-based tool that visually demonstrates various pathfinding algorithms (like A*, Dijkstra, and DFS / BFS)
